@@ -1,4 +1,4 @@
-# Analysis of Algorthims Winter 2020 BS CS/SE/IT
+# Analysis of Algorthims
 
 ### Lecture: Monday 30-11-2020
 ## Logrithims
